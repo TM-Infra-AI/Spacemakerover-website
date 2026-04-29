@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){"use strict";jQuery(function(){var e=jQuery("nav#menu"),n=jQuery("html, body");e.mmenu({dragOpen:!0}),e.find("li > a").on("click",function(){var t=jQuery(this).attr("href");"#"==t.slice(0,1)&&e.one("closed.mm",function(){setTimeout(function(){n.animate({scrollTop:jQuery(t).offset().top})},10)})})})});

@@ -1,0 +1,23 @@
+.alignright{text-align:right}.alignleft{text-align:left}.aligncenter{text-align:center}.navbar-fixed-top{top:inherit}.navbar-nav .open .dropdown-menu{display:block!important}
+.popinput {
+    width: 180px !important;
+}
+.otw-sticky.otw-side-box.otw-right-sticky {
+    top: 50% !important;
+}
+.wpcf7-form h4 {
+    margin-top: 0px;
+    font-size: 20px;
+    color: #1f5ca9;
+}
+.otw-sticky-background-black {
+    background: #1f5ca9 !important;
+}
+.fa-houzz:before {
+    content: "\f27c";
+}
+@media only screen and (max-width: 767px){
+.hide-overlay-for-small {
+    display: inherit !important;
+}
+}

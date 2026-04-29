@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){"use strict";jQuery("#owl-project-single").owlCarousel({navigation:!1,slideSpeed:300,paginationSpeed:400,singleItem:!0})});

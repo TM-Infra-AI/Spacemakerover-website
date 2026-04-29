@@ -1,0 +1,6 @@
+[10-Sep-2017 16:46:30 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/404.php on line 1
+[12-Sep-2017 09:43:27 Etc/GMT] PHP Fatal error:  Call to undefined function th_theme_data() in /home/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/index.php on line 3
+[04-Feb-2019 10:38:43 Etc/GMT] PHP Fatal error:  Call to undefined function th_theme_data() in /home2/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/index.php on line 3
+[04-Feb-2019 10:38:43 Etc/GMT] PHP Fatal error:  Call to undefined function th_theme_data() in /home2/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/index.php on line 3
+[04-Feb-2019 10:38:46 Etc/GMT] PHP Fatal error:  Call to undefined function th_theme_data() in /home2/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/index.php on line 3
+[04-Feb-2019 10:38:47 Etc/GMT] PHP Fatal error:  Call to undefined function th_theme_data() in /home2/asdfcom/public_html/spacemakeover.in/wp-content/themes/Larx/index.php on line 3
